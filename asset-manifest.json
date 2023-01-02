@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactAnimative/static/css/main.42894c68.css",
+    "main.js": "/reactAnimative/static/js/main.f05c150c.js",
+    "static/media/techImage.jpg": "/reactAnimative/static/media/techImage.ee4dbd824fd678573b99.jpg",
+    "index.html": "/reactAnimative/index.html",
+    "main.42894c68.css.map": "/reactAnimative/static/css/main.42894c68.css.map",
+    "main.f05c150c.js.map": "/reactAnimative/static/js/main.f05c150c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42894c68.css",
+    "static/js/main.f05c150c.js"
+  ]
+}
